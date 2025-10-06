@@ -10,7 +10,7 @@ Building AI-driven, multi-cloud solutions with Java, Python, and JavaScript.
 <!--
 **RodrigoDiasDeOliveira/RodrigoDiasdeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on Artificial Intelience with Java , Python With LLMs like HugginFace...in TRIMINDSLABS, as AI architect and
+- 🔭 I’m currently working on Artificial Intelience with Java , Python With LLMs like HugginFace...in TRIMINDSLABS, as AI architect and i always start with an coffee
 
 - 💬 Ask me about ...
 - 📫 How to reach me: www.linkedin.com/in/rodrigodiasdeoliveiradev
