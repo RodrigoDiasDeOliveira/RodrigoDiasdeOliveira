@@ -1,5 +1,5 @@
 ## Hi there 👋
-AI Solutions Architect & Project Manager | Based in Spain
+AI Cloud Solutions Architect  | Based in Spain
 Certified in Google Cloud Database Engineer, OCI Generative AI Professional (2024/2025), IBM AI Developer/Product Manager....and lot more!!!
 Building AI-driven, multi-cloud solutions with Java, Python, and JavaScript.
 
