@@ -5,7 +5,7 @@ Building AI-driven, multi-cloud solutions with Java, Python, and JavaScript.
 
 🔍 Projects: GenAI apps, computer vision, and multi-cloud APIs (OCI, GCP, AWS, Azure).
 📫 Connect: LinkedIn:www.linkedin.com/in/rodrigodiasdeoliveiradev | Credly:https://www.credly.com/users/rodrigo-d-oliveira
-🚀 Highlights: PostgreSQL -AI-Plugin | vectorAI Vscode Plugin | MultiCloudAPI | EyeGuardian | OCI RFID...
+🚀 Highlights: PostgreSQL -AI-Plugin | vectorAI Vscode Plugin | MultiCloudAPI | EyeGuardian | Triminds Logistics RFID...
 
 <!--
 **RodrigoDiasDeOliveira/RodrigoDiasdeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Building AI-driven, multi-cloud solutions with Java, Python, and JavaScript.
 - 💬 Ask me about ...
 - 📫 How to reach me: www.linkedin.com/in/rodrigodiasdeoliveiradev
 - ⚡ Fun fact: Brazilian living in Spain...
-
+It is possible to build modern enterprise platforms by combining Cloud Computing, Security, Artificial Intelligence, and sound software architecture practices into modular, reusable, and product-oriented solutions.
 
 -->
